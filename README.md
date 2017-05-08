@@ -1,12 +1,10 @@
 # fsdse-intro-to-datascience
 Introduction to Data Science
 
-# Python Programming Basics
 
 ## Lets Get Rolling - Student Pre-Read
-We hope you have gone trhough the course pre-work and are all set to kick off your 1st day at GreyAtom
-* [FSDSE Course Pre-work](
-
+We hope you have gone through the course pre-work and are all set to kick off your 1st day at GreyAtom
+* [FSDSE Course Pre-work](https://github.com/shwedosh/GA-fsdse-prework)
 
 ## Learning Objectives 
 
@@ -36,14 +34,16 @@ After this , you'll be able to
 * Understanding a Data Scientist
 
 
+## Post Reads
 
-## Resources & Post Reads
 * [A visual guide to Becoming a Data Scientist in 8 Steps (https://s3.amazonaws.com/assets.datacamp.com/blog_assets/DataScienceEightSteps_Full.png) by [DataCamp](https://www.datacamp.com) 
 * [Berkley Science Review](http://berkeleysciencereview.com/how-to-become-a-data-scientist-before-you-graduate/)
 * [A very short history of data science](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/&refURL=&referrer=)
 * [A day in the life of a Data Scientist](http://online.rutgers.edu/resources/articles/a-day-in-the-life-of-a-data-scientist/?program=mi)
 
-## Data Sets
+## Other Resources 
+
+### Data Sets
 
 * [Academic Torrents](http://academictorrents.com/)
 * [hadoopilluminated.com](http://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
@@ -95,7 +95,7 @@ After this , you'll be able to
 * [Open data Index](http://index.okfn.org/)
 * [Liver Tumor Segmentation Challenge Dataset](http://www.lits-challenge.com/)
 
-## Bloggers
+### Bloggers
 
 - [Wes McKinney](http://wesmckinney.com/archives.html) - Wes McKinney Archives.
 - [Matthew Russell](https://miningthesocialweb.com/) - Mining The Social Web.
@@ -180,7 +180,7 @@ After this , you'll be able to
 - [Sebastian's Blog](http://sebastianruder.com/#open) - Blog for NLP and transfer learning!
 - [Distill](http://distill.pub) - Dedicated to clear explanations of machine learning!
 
-## Facebook Accounts
+### Facebook Accounts
 
 - [Data](https://www.facebook.com/data)
 - [Big Data Scientist](https://www.facebook.com/Bigdatascientist)
@@ -205,7 +205,7 @@ After this , you'll be able to
 - [Veri Bilimi Istanbul](https://www.facebook.com/groups/veribilimiistanbul/)
 - [The Data Science Blog](https://www.facebook.com/theDataScienceBlog/)
 
-## Twitter Accounts
+### Twitter Accounts
 
 - [Big Data Combine](https://twitter.com/BigDataCombine) - Rapid-fire, live tryouts for data scientists seeking to monetize their models as trading strategies
 - [Big Data Mania](https://twitter.com/BigDataGal) - Data Viz Wiz | Data Journalist | Growth Hacker | Author of Data Science for Dummies (2015)
@@ -273,7 +273,7 @@ After this , you'll be able to
 - [WNYC Data News Team](https://twitter.com/datanews) - The data news crew at @WNYC. Practicing data-driven journalism, making it visual and showing our work.
 
 
-## Youtube Videos & Channels
+### Youtube Videos & Channels
 
  - [What is machine learning?](https://www.youtube.com/watch?v=WXHM_i-fgGo)
  - [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24)
@@ -286,7 +286,7 @@ After this , you'll be able to
  - [Neural Networks video series by Hugo Larochelle](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
  - [Google DeepMind co-founder Shane Legg - Machine Super Intelligence](https://www.youtube.com/watch?v=evNCyRL3DOU)
 
-## Toolboxes - Environment
+### Toolboxes - Environment
 
  * [Datalab from Google](https://cloud.google.com/datalab/docs/) easily explore, visualize, analyze, and transform data using familiar languages, such as Python and SQL, interactively.
  * [Hortonworks Sandbox](http://hortonworks.com/products/sandbox/) is a personal, portable Hadoop environment that comes with a dozen interactive Hadoop tutorials.
@@ -324,7 +324,7 @@ After this , you'll be able to
  * [IJulia](https://github.com/JuliaLang/IJulia.jl) – a Julia-language backend combined with the Jupyter interactive environment.
  
  
-## Visualization Tools - Environments
+### Visualization Tools - Environments
  
  * [addepar](http://opensource.addepar.com/ember-charts/#/overview)
  * [amcharts](https://www.amcharts.com/)
@@ -364,7 +364,7 @@ After this , you'll be able to
  * [NetworkX](https://networkx.github.io/) - High-productivity software for complex networks
 
 
-## Journals, Publications and Magazines
+### Journals, Publications and Magazines
 
  * [ICML](http://icml.cc/2015/) - International Conference on Machine Learning
  * [epjdatascience](http://epjdatascience.springeropen.com/)
@@ -375,7 +375,7 @@ After this , you'll be able to
  * [Data Science Journal](https://www.jstage.jst.go.jp/browse/dsj)
 
 
-## Presentations
+### Presentations
 
 * [How to Become a Data Scientist](http://www.slideshare.net/ryanorban/how-to-become-a-data-scientist)
 * [Introduction to Data Science](http://www.slideshare.net/NikoVuokko/introduction-to-data-science-25391618)
@@ -387,7 +387,7 @@ After this , you'll be able to
 * [Building Data Start-Ups: Fast, Big, and Focused](http://www.slideshare.net/medriscoll/driscoll-strata-buildingdatastartups25may2011clean)
 * [How to win data science competitions with Deep Learning](http://www.slideshare.net/0xdata/how-to-win-data-science-competitions-with-deep-learning)
 
-## Competitions
+### Competitions
 
   Some data mining competition platforms
 * [Kaggle](https://www.kaggle.com/)
@@ -397,10 +397,10 @@ After this , you'll be able to
 * [InnoCentive](https://www.innocentive.com/)
 * [TuneedIT](http://tunedit.org/challenges)
 
-## Comics
+### Comics
 * [<img src="http://imgs.xkcd.com/comics/digital_data.png" />](Digital Data)
 
-## Other Awesome Lists
+### Other Awesome Lists
 
  - Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
  - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) A curated list of awesome Machine Learning frameworks, libraries and software.
@@ -414,7 +414,7 @@ After this , you'll be able to
  - [Awesome Data Science Ideas](https://github.com/JosPolfliet/awesome-datascience-ideas)
  - [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
  
- Compiled from multiple sources including (https://github.com/bulutyazilim/awesome-datascience)
+ Compiled from multiple sources including https://github.com/bulutyazilim/awesome-datascience
 
 
 
