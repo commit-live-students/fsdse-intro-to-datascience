@@ -1,5 +1,5 @@
-# fsdse-intro-to-datascience
-Introduction to Data Science
+# Introduction to Data Science
+ 
 
 
 ## Lets Get Rolling - Student Pre-Read
@@ -8,13 +8,11 @@ We hope you have gone through the course pre-work and are all set to kick off yo
 
 ## Learning Objectives 
 
-After this , you'll be able to 
 
-* Understand Python libraries and their usage for Data Science
-* Work with basic Python data types
-* Work with Python Loops
-* Perform List Operations
-* Understand Set operations
+* Understand Impact of Data Science on Business  
+* Explore Career Paths in Data Science
+* Work with Commit.Live 
+
 
 ## Agenda
 
@@ -30,9 +28,10 @@ After this , you'll be able to
 ## Slides
 
 * Introduction to Data Science
+<<Slides>>
 
 * Understanding a Data Scientist
-
+<<Slides>>
 
 ## Post Reads
 
