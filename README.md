@@ -36,7 +36,7 @@ After this , you'll be able to
 
 ## Post Reads
 
-* [A visual guide to Becoming a Data Scientist in 8 Steps (https://s3.amazonaws.com/assets.datacamp.com/blog_assets/DataScienceEightSteps_Full.png) by [DataCamp](https://www.datacamp.com) 
+* [A visual guide to Becoming a Data Scientist in 8 Steps] (https://s3.amazonaws.com/assets.datacamp.com/blog_assets/DataScienceEightSteps_Full.png) by [DataCamp](https://www.datacamp.com) 
 * [Berkley Science Review](http://berkeleysciencereview.com/how-to-become-a-data-scientist-before-you-graduate/)
 * [A very short history of data science](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/&refURL=&referrer=)
 * [A day in the life of a Data Scientist](http://online.rutgers.edu/resources/articles/a-day-in-the-life-of-a-data-scientist/?program=mi)
