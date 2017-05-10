@@ -28,10 +28,10 @@ We hope you have gone through the course pre-work and are all set to kick off yo
 ## Slides
 
 * Introduction to Data Science
-<<Slides>>
+@[gslides](1f6ODzFG78QrD3aR-7Ka4KTi7X3GmuicHWUoiLsm15no)
 
 * Understanding a Data Scientist
-<<Slides>>
+@[gslides](1n7OLNT0k9_oPS8EbRK9CAz7SI5WhqI7akU-jvp25Tvs)
 
 ## Post Reads
 
