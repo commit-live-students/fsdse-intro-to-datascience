@@ -1,6 +1,6 @@
-# Introduction to Data Science
- 
+![GitHub Logo](https://s3.ap-south-1.amazonaws.com/greyatom-social/GreyAtom-logo.png)
 
+# Introduction to Data Science
 
 ## Lets Get Rolling - Student Pre-Read
 We hope you have gone through the course pre-work and are all set to kick off your 1st day at GreyAtom
