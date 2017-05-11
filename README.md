@@ -4,7 +4,7 @@
 
 ## Lets Get Rolling - Student Pre-Read
 We hope you have gone through the course pre-work and are all set to kick off your 1st day at GreyAtom
-* [FSDSE Course Pre-work](/lesson/GA-fsdse-prework)
+* [FSDSE Course Pre-work](/lesson/fsdse-pre-work)
 
 ## Learning Objectives 
 
